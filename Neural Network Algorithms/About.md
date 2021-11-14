@@ -1,0 +1,2 @@
+# About #
+This program is an implementation of the gradeint formulae used in backprogation and an update of the weights of the neural network along with the forward propogation done by the neural network. This code DOES NOT implement the nuanced backpropogation algorithm, but rather a simple implementation of the gradient formulae, etc. This code was written as part of an assignment for the Machine Learning course.
